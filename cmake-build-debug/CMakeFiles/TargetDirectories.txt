@@ -1,0 +1,3 @@
+C:/Users/TGDD/CLionProjects/untitled21/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/TGDD/CLionProjects/untitled21/cmake-build-debug/CMakeFiles/untitled21.dir
+C:/Users/TGDD/CLionProjects/untitled21/cmake-build-debug/CMakeFiles/edit_cache.dir
